@@ -9,7 +9,7 @@
 ## What do you have to do
 + Create your telegram bot https://core.telegram.org/bots#3-how-do-i-create-a-bot
 + get the bot token
-+ tal kwith the botfather command: /setprivacy  'Disable' - your bot will receive all messages that people send to group
++ talk with the botfather command: /setprivacy  'Disable' - your bot will receive all messages that people send to group
 + upload all files of this repo to a webserver (https only)
-+ 
++ fill out the settings in 
 
