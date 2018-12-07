@@ -44,7 +44,7 @@ $mail_subject = "Telegram: ".$chat_name;
 
 
 //no notification of yourself
-if($name != $tgm_usr)
+if($firstname != $tgm_usr and $update != "")
 {
 
 
