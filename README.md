@@ -9,6 +9,7 @@
 + set the webhook https://api.telegram.org/bot<token>/setWebhook?url=https://www.example.com/my-telegram-bot
 + upload all files of this repo to a webserver (https only)
 + fill out the settings in telegram_notification.php
++ add your bot in a group
 
 
 ## Helpfull commands
