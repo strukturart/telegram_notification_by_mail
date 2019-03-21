@@ -147,7 +147,7 @@ if
 			<br>
 			<img src='.$image_path.'>
 			<br>
-			<footer>Telegram notification by email.</footer>
+			<footer>Telegram notification by email.<br>≧◔◡◔≦</footer>
 			
 
 			
